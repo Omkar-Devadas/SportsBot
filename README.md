@@ -26,6 +26,10 @@ The bot is built using Flask + LangChain + Pinecone + Google Generative AI embed
 
 🖥️ Web UI → Simple chat interface powered by Flask
 
+
+
+<img width="1280" height="800" alt="Screenshot 2025-08-21 at 4 10 58 PM" src="https://github.com/user-attachments/assets/e9482a86-d14e-48a9-9720-07606bf08ef6" />
+
 🛠️ Tech Stack
 
 Backend: Flask (Python)
